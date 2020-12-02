@@ -22,3 +22,7 @@ UPDATE 2 (12/2/2020):
 
 We plan to seperate various graphs, which represent different data, into functions. The user will get to pick which function they would like to run
 As of now, we have 2 functions planned for covid data: The first covid_deaths() is data  showcasing cases by state and or county and covid_cases() shows cases by state or county. We have an additional 2 functions that will allow the user to decide how they will view their data. One function, set_range() will set the range for the matplot graph and the second function, displaf(df) will take values from set_range() function and present them in the visual form the user wants. 
+
+The way we would like to run our program is largely based on user input. The user will be prompted to enter the data they would like to see; deaths or cases.
+Based on their selection, the program will generate the corresponding function. If the user selects death, then the program will use the covid_deaths() function.
+If the user selects cases, then the function covid_cases() will be used. A selection that is neither death or cases will promt an error message to the user. 
