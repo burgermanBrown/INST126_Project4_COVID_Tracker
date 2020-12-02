@@ -20,3 +20,4 @@ into seperate functions as well.
 A strong focus here is to make the data easy and accessible, meaning anyone can easily use the program and interpret the graphs.
 
 UPDATE 2 (12/2/2020):
+In this project, we plan to 
