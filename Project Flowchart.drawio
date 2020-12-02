@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T19:09:00.431Z" agent="5.0 (Windows)" etag="KMH0zPSqXHlyysRkj7CS" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T01:16:55.612Z" agent="5.0 (Windows)" etag="GnmpDeQnYXtpF8MSttHJ" version="13.10.5" type="github">
   <diagram id="tAdPeTKJlN7bOHheGdF9" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,9 +44,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iHuIv27mJ4IeMXVoEYGh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iHuIv27mJ4IeMXVoEYGh-17" target="iHuIv27mJ4IeMXVoEYGh-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djKttDt-YxFd_NFeAkNs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHuIv27mJ4IeMXVoEYGh-17" target="djKttDt-YxFd_NFeAkNs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iHuIv27mJ4IeMXVoEYGh-17" value="User function selection" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -153,9 +150,6 @@
         </mxCell>
         <mxCell id="Fl7NyhwMVP9BRSrlcS8B-42" value="display graph" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="745" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="djKttDt-YxFd_NFeAkNs-2" value="range() [Months, Days]" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
