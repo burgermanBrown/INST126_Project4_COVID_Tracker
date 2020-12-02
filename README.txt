@@ -1,5 +1,7 @@
+
 INST126 Project 4 COVID-19 Tracker
 
+UPDATE 1 (11/25/2020):
 Project Goal:
 Project goal is to create a thorough and detailed analysis covid cases, peaks and troughs in various counties, deaths vs recoveries, etc.
 
@@ -16,3 +18,5 @@ Each function will sort data by day and month, choose an appropriate range, then
 into seperate functions as well.
 
 A strong focus here is to make the data easy and accessible, meaning anyone can easily use the program and interpret the graphs.
+
+UPDATE 2 (12/2/2020):
